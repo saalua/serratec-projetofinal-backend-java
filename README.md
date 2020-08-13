@@ -20,7 +20,7 @@
 <strong> Passo 5 > </strong> <i> Faça um clone desse repositório rodando: `git clone https://github.com/saalua/serratec-projetofinal-backend-java.git`</i><br>
 <strong> Passo 6 > </strong> <i> Depois de clonar o repositório crie um projeto java em um editor de sua preferência e cole dentro do projeto a pasta <strong> SRC </strong> </i><br>
 <strong> Passo 7 > </strong> <i> Após executar o projeto você deve informar o caminho do arquivo CSV e o caminho de saida que deseja salvar o arquivo final. </i><br>
-<strong> Passo 8 > </strong> <i> Use o arquivo csv padrão dentro da pasta src como exemplo para execultar o projeto com sucesso.</i><br>
+<strong> Passo 8 > </strong> <i> Use o arquivo csv padrão "arquivo-exemplo.csv" dentro da pasta como exemplo de arquivo para executar o projeto com sucesso.</i><br>
 
 ## 📋 Licença
 
